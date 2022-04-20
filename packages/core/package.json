@@ -1,12 +1,12 @@
 {
   "name": "@marvin-cli-dev/core",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "marvin-cli-dev core",
   "author": "mengjoel <2274729213@qq.com>",
   "homepage": "",
   "license": "ISC",
   "bin": {
-    "marvin-cli-dev":"bin/index.js"
+    "marvin-cli-dev": "bin/index.js"
   },
   "main": "lib/core.js",
   "directories": {
@@ -23,7 +23,7 @@
     "test": "echo \"run test from core\" "
   },
   "dependencies": {
-    "@marvin-cli-dev/utils": "^0.0.2",
+    "@marvin-cli-dev/utils": "^0.0.4",
     "marvin-cli-test": "^1.0.3"
   },
   "gitHead": "e7d9077da55bdb399d81f3dffd78c57730181803"
