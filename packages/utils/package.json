@@ -1,0 +1,22 @@
+{
+  "name": "@marvin-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "mengjoel <2274729213@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"run test from util\" "
+  },
+  "dependencies": {
+    "marvin-cli-test": "^1.0.3"
+  }
+}
