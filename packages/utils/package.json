@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "marvin-cli-test": "^1.0.3"
-  }
+  },
+  "gitHead": "e7d9077da55bdb399d81f3dffd78c57730181803"
 }
