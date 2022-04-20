@@ -1,6 +1,6 @@
 {
   "name": "@marvin-cli-dev/utils",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "mengjoel <2274729213@qq.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "dependencies": {
     "marvin-cli-test": "^1.0.3"
   },
-  "gitHead": "e7d9077da55bdb399d81f3dffd78c57730181803"
+  "gitHead": "43c441e8fa7f008c3e2197f682bf130cfb1e3bfd"
 }
